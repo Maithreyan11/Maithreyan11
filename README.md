@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on my Course<br><br>
 - 🌱 I’m currently learning Machine Learning<br><br>
 - 👯 I’m looking to collaborate with dreamers <br><br>
-- ⚡ Fun fact: ...I am a weeb!!!<br><br><br><br><br><br><br>
+- ⚡ Fun fact: ...I am a weeb!!!<br><br><br><br><br><br>
 
 
 
-<img align="center" height="200em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maithreyan11&theme=vue-dark&&langs_count=4" />&emsp;<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Maithreyan11&show_icons=true&count_private=true&include_all_commits=true&theme=vue-dark" />
+<img align="center" height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maithreyan11&theme=vue-dark&&langs_count=4" />&emsp;<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Maithreyan11&show_icons=true&count_private=true&include_all_commits=true&theme=vue-dark" />
