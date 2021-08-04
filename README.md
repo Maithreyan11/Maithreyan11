@@ -11,4 +11,7 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am a weeb!!!
 
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Maithreyan11&theme=dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maithreyan11&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
