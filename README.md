@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my Course<br><br>
 - 🌱 I’m currently learning Machine Learning<br><br>
 - 👯 I’m looking to collaborate with dreamers <br><br>
-- ⚡ Fun fact: ...I am a weeb!!!
+- ⚡ Fun fact: ...I am a weeb!!!<br><br><br>
 
 
 
