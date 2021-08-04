@@ -1,4 +1,6 @@
-### Hello! I'm Maithreyan ✌
+### Hello! I'm Maithreyan 🙌
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 Here are some ideas to get you started:
