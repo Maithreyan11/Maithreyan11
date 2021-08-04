@@ -1,5 +1,5 @@
 ### Hello! I'm Maithreyan 🙌
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Maithreyan11/Maithreyan11/blob/main/coding-freak.gif?raw=true" width="500" height="320" />
 
 
  Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)&nbsp;&nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/maithreyan_s)&nbsp;
