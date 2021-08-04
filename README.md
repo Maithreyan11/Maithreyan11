@@ -12,4 +12,4 @@
 
 
 
-<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maithreyan11&theme=dark" /><img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Maithreyan11&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maithreyan11&theme=dark&&langs_count=3" /><img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Maithreyan11&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
