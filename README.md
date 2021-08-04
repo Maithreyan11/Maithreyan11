@@ -5,10 +5,9 @@
  Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)&nbsp;&nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/maithreyan_s)&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/maithreyan-s-478aba165/)
 
-- 🔭 I’m currently working on my Course<br><br>
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate with dreamers 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/maithreyan-s-478aba165/)
+- 🔭 I’m currently working on my Course<br>
+- 🌱 I’m currently learning Machine Learning<br>
+- 👯 I’m looking to collaborate with dreamers <br>
 - ⚡ Fun fact: ...I am a weeb!!!
 
 
