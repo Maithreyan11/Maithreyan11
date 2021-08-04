@@ -1,6 +1,6 @@
 ### Hello! I'm Maithreyan 🙌
 
-Glad to see you here!!![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 Here are some ideas to get you started:
