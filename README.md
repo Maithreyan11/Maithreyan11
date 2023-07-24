@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/Maithreyan11/Maithreyan11/blob/main/coding-freak.gif?raw=true" width="468.75" height="300" />
 
 
- Glad to see you here! <br> <br> ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maithreyan11.Maithreyan11&left_color=green&right_color=red)
+ Glad to see you here! <br> <br> ![visitors](https://visitor-badge.glitch.me/badge?page_id=Maithreyan11&left_color=green&right_color=red)
 &nbsp;&nbsp;
  [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/maithreyan_s)&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/maithreyan-s-478aba165/)
