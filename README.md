@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/Maithreyan11/Maithreyan11/blob/main/coding-freak.gif?raw=true" width="468.75" height="300" />
 
 
- Glad to see you here! <br> <br> ![Visitor Count](https://profile-counter.glitch.me/Maithreyan11/count.svg)&nbsp;&nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/maithreyan_s)&nbsp;
+ Glad to see you here! <br> <br> [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)&nbsp;&nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/maithreyan_s)&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/maithreyan-s-478aba165/)
 
 - 🔭 Looking out for a Job<br><br>
